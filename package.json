@@ -1,0 +1,10 @@
+{
+	"name": "io.github.glitchenzo.nugetforunity",
+	"version": "2.0.0",
+	"displayName": "NuGet for Unity",
+	"description": "NuGetForUnity is a NuGet client built from scratch to run inside the Unity Editor. NuGet is a package management system which makes it easy to create packages that are distributed on a server and consumed by users. NuGet supports sematic versioning for packages as well as dependencies on other packages.",
+	"author": {
+		"name": "Patrick McCarthy",
+		"url": "https://github.com/GlitchEnzo/NuGetForUnity"
+	}
+}
